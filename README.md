@@ -26,7 +26,7 @@
   
   ## 📢 Last Commit
   
-  > "Adding my worflow for testing"
+  > "📚 Auto-generation README"
   
   ---
   
